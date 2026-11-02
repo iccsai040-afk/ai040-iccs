@@ -1,0 +1,6 @@
+{
+  "name": "DLT Phrae Video Studio - ขนส่งแพร่ สมาร์ทคิว",
+  "description": "ระบบสร้างวิดีโอประชาสัมพันธ์และแนะนำการจองคิวออนไลน์ DLT Smart Queue สำนักงานขนส่งจังหวัดแพร่ บริการด้วยจิตบริการ สะดวก รวดเร็ว ประทับใจ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
